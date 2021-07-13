@@ -59,13 +59,7 @@ https://jtok.herokuapp.com/j/
 - This is Just For Educational Purpose
 - DO NOT Sell this Script, This is 💯% Free
 
-<h3>🤗 Meet Me : </h3>
 
-
-• For any Support About Script contact [@AvishkarPatil](https://telegram.me/AvishkarPatil)  at Telegram <br>
-• Or Contact at [proavipatil@gmail.com](mailto:proavipatil@gmail.com)
-
-<br>
 
 
 ---
