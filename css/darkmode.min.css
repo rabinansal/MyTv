@@ -82,7 +82,7 @@ body {
   line-height: 1.5;
   color: #fff;
   text-align: left;
-  background-color: #222;
+  background-color: #F8F5F5;
 }
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
@@ -4803,9 +4803,9 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #303030;
+  background-color: #fff;
   background-clip: border-box;
-  border: 2px solid #151515;
+  border: 2px solid #f7f7f7;
   border-radius: 20px;
   margin: 5px;
   text-align: center;
@@ -4854,7 +4854,7 @@ input[type="button"].btn-block {
 }
 .card-text:last-child {
   margin-bottom: 0;
-  color: #ebe2ed;
+  color: #072B4C;
 }
 .card-link:hover {
   text-decoration: none;
