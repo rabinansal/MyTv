@@ -4804,10 +4804,11 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 2px solid #f7f7f7;
+  border: 1px solid #f7f7f7;
   border-radius: 20px;
   margin: 5px;
   text-align: center;
+  box-shadow: 2px 2px 2px #d6d6d68c;
 }
 .card > hr {
   margin-right: 0;
