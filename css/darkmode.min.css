@@ -196,7 +196,6 @@ img {
   vertical-align: middle;
   border-style: none;
   border-radius: 20px;
-  border-bottom: 1px solid #151515;
 }
 svg {
   overflow: hidden;
@@ -4839,7 +4838,6 @@ input[type="button"].btn-block {
   min-height: 1px;
   padding-top: 10px;
   padding-bottom:10px;
-  border-top: 1px solid #151515;
   border-radius: 15px;
   color: #fff;
   font-family: 'Signika Negative', sans-serif;
